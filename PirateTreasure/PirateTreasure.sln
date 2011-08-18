@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PirateTreasure", "PirateTreasure\PirateTreasure\PirateTreasure.csproj", "{8677F54C-AF4A-47F8-AB0B-ACAA76254312}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PirateTreasureContent", "PirateTreasure\PirateTreasureContent\PirateTreasureContent.contentproj", "{83A6F3CF-7C2F-4299-97B9-864A6407B636}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8677F54C-AF4A-47F8-AB0B-ACAA76254312}.Debug|x86.ActiveCfg = Debug|x86
+		{8677F54C-AF4A-47F8-AB0B-ACAA76254312}.Debug|x86.Build.0 = Debug|x86
+		{8677F54C-AF4A-47F8-AB0B-ACAA76254312}.Release|x86.ActiveCfg = Release|x86
+		{8677F54C-AF4A-47F8-AB0B-ACAA76254312}.Release|x86.Build.0 = Release|x86
+		{83A6F3CF-7C2F-4299-97B9-864A6407B636}.Debug|x86.ActiveCfg = Debug|x86
+		{83A6F3CF-7C2F-4299-97B9-864A6407B636}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
