@@ -4,7 +4,6 @@ The visual assests and the code were all made by me and can be use for open sour
 
 It is an open source project (as listed by the MIT license bellow) so feel free to use this for your own tests and to contact me if any help is needed I'd be glad to help and learn a bit more.
 
-vitor.navarro87@gmail.com
 www.vnavarro.com.br
 
 
